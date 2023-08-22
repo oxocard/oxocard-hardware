@@ -1,0 +1,177 @@
+Stückliste exportiert aus OXOcard_V28.sch am 29.03.19 17:11
+
+Part  Value                                     Device                       Package            Description               SIZE
+C1    100nF                                     CAP_0603                     C0603              Capacitor                 0603
+C2    100nF                                     CAPC0603                     C0603                                            
+C3    100nF                                     CAPC0603                     C0603                                            
+C4    10u                                       CAPC0805                     C0805                                            
+C5    10u                                       CAPC0805                     C0805                                            
+C6    10u                                       CAPC0805                     C0805                                            
+C7    100nF                                     CAP_0603                     C0603              Capacitor                 0603
+C8    1u                                        CAP_0603                     C0603              Capacitor                 0603
+C9    100nF                                     CAP_0603                     C0603              Capacitor                 0603
+C10   1u                                        CAPC0603                     C0603                                            
+C11   10u                                       CAPC0805                     C0805                                            
+C12   1u                                        CAPC0603                     C0603                                            
+C13   1u                                        CAPC0603                     C0603                                            
+C14   1u                                        CAP_0603                     C0603              Capacitor                 0603
+C15   10u                                       CAPC0805                     C0805                                            
+C16   1u                                        CAPC0603                     C0603                                            
+C17   27pF                                      CAP_0603                     C0603              Capacitor                 0603
+C18   100nF                                     CAP_0603                     C0603              Capacitor                 0603
+C19   27pF                                      CAP_0603                     C0603              Capacitor                 0603
+C20   27pF                                      CAP_0603                     C0603              Capacitor                 0603
+C23   1u                                        CAP_0603                     C0603              Capacitor                 0603
+C28   100nF                                     CAP_0603                     C0603              Capacitor                 0603
+C30   100nF                                     CAPC0603                     C0603                                            
+C31   100nF                                     CAPC0603                     C0603                                            
+C38   1u                                        CAP_0603                     C0603              Capacitor                 0603
+C46   1u                                        CAP_0603                     C0603              Capacitor                 0603
+C54   1u                                        CAP_0603                     C0603              Capacitor                 0603
+C62   1u                                        CAP_0603                     C0603              Capacitor                 0603
+C70   1u                                        CAP_0603                     C0603              Capacitor                 0603
+C78   1u                                        CAP_0603                     C0603              Capacitor                 0603
+D1    PMEG3010ESBYL                             PMEG3010ESB                  SOD993                                           
+D3    NC (ESD5V3U2U)                            ESD5V3U2U                    ESD5V3U2U-03F                                    
+D4    VESD05A1-02V-G-08                         VESD05A1-02V-G-08            SOD523                                           
+D10   1N4448WS                                  DIODE                        SOD323                                           
+D11   1N4448WS                                  DIODE                        SOD323                                           
+F2    0ZCJ0025AF2E                              PTC/1206                     PTC-1206                                         
+FID1  FIDUCIAL1X2                               FIDUCIAL1X2                  FIDUCIAL-1X2       Fiducial Alignment Points     
+FID2  FIDUCIAL1X2                               FIDUCIAL1X2                  FIDUCIAL-1X2       Fiducial Alignment Points     
+FID3  FIDUCIAL1X2                               FIDUCIAL1X2                  FIDUCIAL-1X2       Fiducial Alignment Points     
+IC1   MCP73832T-2ACI/OT                         MCP73831/OT                  SOT23-5L           MCP73831/2                    
+IC2   ESP-WROOM-32                              ESP-WROOM-32                 ESP-MODULE                                       
+IC3   SN74LVC2G34                               SN74LVC2G34                  SOT23-6L                                         
+IC4   SPK0415HM4H-B                             SPK0415HM4H-B                SPK0415HM4H-B                                    
+IC5   MC74VHC1G135                              NAND_MC74VHC1G135            SC70-5                                           
+IC6   NCV8161BMX330TBG                          NCV8161                      XDFN4                                            
+IC7   LIS3DETR                                  LIS3DE                       LGA-16                                           
+IC8   M24C04-RDW6TP                             M24C04DW                     TSSOP8                                           
+IC9   PAM8015                                   PAM8015                      AP02001                                          
+IC13  CH340G                                    CH340G                       SOIC16                                           
+J1    NC                                        PINHD-1X4/ROUND              1X04/ROUND         PIN HEADER                    
+J2    NC                                        PINHD-1X21X02/ROUND          1X02/ROUND         PIN HEADER                    
+J3    ~20mm Wire & LiPo-Battery (402046/340mAh) PINHD-1X2/SUPPLY/SMD         1X02_SUPPLY/SMD    PIN HEADER                    
+J4    NC                                        PINHD-1X4/ROUND              1X04/ROUND         PIN HEADER                    
+J5    NC                                        PINHD-1X1ROUND               1X01/ROUND         PIN HEADER                    
+J6    NC                                        PINHD-1X21X02/ROUND          1X02/ROUND         PIN HEADER                    
+J7    NC                                        PINHD-1X6/OFFSET             1X06/OFFSET        PIN HEADER                    
+J8    NC                                        PINHD-1X3/ROUND              1X03/ROUND         PIN HEADER                    
+L1    600 Ohm FB                                LL0603                       C0603                                            
+L2    600 Ohm FB                                LL0603                       C0603                                            
+L3    600 Ohm FB                                LL0603                       C0603                                            
+L4    600 Ohm FB                                LL0603                       C0603                                            
+LED1  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED2  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED3  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED4  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED5  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED6  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED7  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED8  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED9  SK6812MINI                                SK6812MINI                   LED3535                                          
+LED10 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED11 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED12 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED13 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED14 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED15 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED16 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED17 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED18 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED19 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED20 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED21 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED22 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED23 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED24 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED25 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED26 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED27 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED28 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED29 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED30 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED31 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED32 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED33 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED34 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED35 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED36 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED37 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED38 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED39 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED40 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED41 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED42 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED43 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED44 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED45 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED46 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED47 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED48 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED49 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED50 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED51 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED52 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED53 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED54 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED55 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED56 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED57 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED58 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED59 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED60 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED61 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED62 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED63 SK6812MINI                                SK6812MINI                   LED3535                                          
+LED64 SK6812MINI                                SK6812MINI                   LED3535                                          
+Q1    DMG2301U-7                                P-MOSFET-3                   SOT23                                            
+Q4    BC846ALT1G                                NPN                          SOT23                                            
+Q5    BC846ALT1G                                NPN                          SOT23                                            
+Q9    DMG2301U-7                                P-MOSFET-3                   SOT23                                            
+R1    100k/1%                                   RESR0603                     R0603                                            
+R2    10k                                       RESR0603                     R0603                                            
+R3    10k                                       RES_0603                     R0603              Resistor                  0603
+R4    10k                                       RESR0603                     R0603                                            
+R5    10k                                       RESR0603                     R0603                                            
+R6    10k                                       RESR0603                     R0603                                            
+R7    100                                       RESR0603                     R0603                                            
+R8    10k                                       RES_0603                     R0603              Resistor                  0603
+R9    300k/1%                                   RESR0603                     R0603                                            
+R10   10k                                       RES_0603                     R0603              Resistor                  0603
+R12   10k                                       RESR0603                     R0603                                            
+R13   10k                                       RES_0603                     R0603              Resistor                  0603
+R14   10k                                       RES_0603                     R0603              Resistor                  0603
+R15   100                                       RESR0603                     R0603                                            
+R16   10k                                       RES_0603                     R0603              Resistor                  0603
+R17   100                                       RESR0603                     R0603                                            
+R18   10k                                       RES_0603                     R0603              Resistor                  0603
+R19   10k                                       RES_0603                     R0603              Resistor                  0603
+R20   100                                       RESR0603                     R0603                                            
+R21   10k                                       RES_0603                     R0603              Resistor                  0603
+R22   10k                                       RES_0603                     R0603              Resistor                  0603
+R23   100                                       RESR0603                     R0603                                            
+R24   100                                       RESR0603                     R0603                                            
+R25   10k                                       RES_0603                     R0603              Resistor                  0603
+R26   NC                                        RESR0603                     R0603                                            
+R27   10k                                       RES_0603                     R0603              Resistor                  0603
+R28   3.3M                                      RESR0603                     R0603                                            
+R29   10k                                       RESR0603                     R0603                                            
+R30   3.3M                                      RESR0603                     R0603                                            
+R31   470                                       RESR0603                     R0603                                            
+R32   10k                                       RES_0603                     R0603              Resistor                  0603
+R33   10k                                       RESR0603                     R0603                                            
+R34   10k                                       RESR0603                     R0603                                            
+R35   100                                       RESR0603                     R0603                                            
+R36   100                                       RESR0603                     R0603                                            
+R42   10k                                       RES_0603                     R0603              Resistor                  0603
+S1    SMD_BUTTON_6X6X3.1                        BUTTON-SMDBUTTON-SMD_6X6X2.5 BUTTON-SMD_6X6X2.5                               
+S2    SMD_BUTTON_6X6X3.1                        BUTTON-SMDBUTTON-SMD_6X6X2.5 BUTTON-SMD_6X6X2.5                               
+S3    SMD_BUTTON_6X6X3.1                        BUTTON-SMDBUTTON-SMD_6X6X2.5 BUTTON-SMD_6X6X2.5                               
+S4    SMD_BUTTON_6X6X3.1                        BUTTON-SMDBUTTON-SMD_6X6X2.5 BUTTON-SMD_6X6X2.5                               
+S5    SMD_BUTTON_6X6X3.1                        BUTTON-SMDBUTTON-SMD_6X6X2.5 BUTTON-SMD_6X6X2.5                               
+S6    SMD_BUTTON_6X6X3.1                        BUTTON-SMDBUTTON-SMD_6X6X2.5 BUTTON-SMD_6X6X2.5                               
+U1    USB-MICRO-10118194-0001LF                 USB-MICRO-10118194-0001LF    10118194-0001LF                                  
+X1    SJ2-35853A-SMT                            SJ2-3585XA                   SJ2-3585X-SMT                                    
+Y3    CSTCE12M0G52-R0                           RESONATORG                   CSTCE_G                                          
